@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="googlecode.windowlicker.swing" type="repository">
+    <properties maven-id="com.googlecode.windowlicker:windowlicker-swing:r268" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/windowlicker/windowlicker-swing/r268/windowlicker-swing-r268.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/windowlicker/windowlicker-core/r268/windowlicker-core-r268.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.1/hamcrest-all-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
