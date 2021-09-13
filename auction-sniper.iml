@@ -22,5 +22,6 @@
     <orderEntry type="library" name="hamcrest" level="project" />
     <orderEntry type="library" name="googlecode.windowlicker.swing" level="project" />
     <orderEntry type="library" name="igniterealtime.smack.smackx" level="project" />
+    <orderEntry type="library" name="jmock" level="project" />
   </component>
 </module>

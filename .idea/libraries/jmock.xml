@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="jmock" type="repository">
+    <properties maven-id="org.jmock:jmock:2.12.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jmock/jmock/2.12.0/jmock-2.12.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jmock/jmock-testjar/2.12.0/jmock-testjar-2.12.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/annotations/3.0.1/annotations-3.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-library/2.1/hamcrest-library-2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm/7.1/asm-7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
